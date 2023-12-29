@@ -10,7 +10,7 @@ Hi!  I'm an earth scientist that works on applications of geomorphology and hydr
 ## Select Software Development Applications
 
 ### Desktop applications
-* Multi-dimensional Surface Water Modeling System:  Principle developer of Windows application for pre- and post-processing of computaional flow and sediment-transport models: [MD_SWMS](https://pubs.usgs.gov/fs/2005/3078/).  This project is no inactive and has been replaced by iRIC.
+* Multi-dimensional Surface Water Modeling System:  Principle developer of Windows application for pre- and post-processing of computaional flow and sediment-transport models: [MD_SWMS](https://pubs.usgs.gov/fs/2005/3078/).  This project is inactive and has been replaced by iRIC.
 * International River Interface Coopoerative (iRIC).  Co-developer and designer of early iterations of the [iRIC application](https://i-ric.org/en/)
 
 ### Python Packages
