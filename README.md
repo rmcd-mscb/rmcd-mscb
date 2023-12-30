@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## BIO
-Hi!  I'm an earth scientist that works on applications of geomorphology and hydrology.  I've enjoyed working on topics including: aeolian and fluvial sediment-transport, upland river hydraulics, eco-hydraulics, lagrangian particle-tracking applications of riverine larval drift and general dispersion, watershed modeling, and open-source gis workflows and web-services.  I'm aslo a software developer with experience in C, C++, FORTRAN, and Python.
+Hi!  I'm an earth scientist that works on applications of geomorphology and hydrology.  I've enjoyed working on topics including: aeolian and fluvial sediment-transport, upland river hydraulics, eco-hydraulics, lagrangian particle-tracking applications of riverine larval drift and general dispersion, watershed modeling, and open-source gis workflows and web-services.  I'm also a software developer with experience in C, C++, FORTRAN, and Python.
 
 ## Education
 * MS, Earth Science, University of California, Santa Cruz 1993
