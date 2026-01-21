@@ -23,5 +23,5 @@ I've been expanding my use of AI tools.  Initially Github Copilot, but more rece
 ### Python Packages
 * [GDPTools](https://gdptools.readthedocs.io/en/latest/): A python package for spatial interpolations of gridded datasets to arbitrary polygons using area-weighted statistics.
 * [FluvialParticle](https://fluvial-particle.readthedocs.io/en/latest/)  A python package for lagrangian particle-tracking.
-* [pyONHM](https://github.com/rmcd-mscb/pyonhm_mirror) A python package provides and Command Line Interface for managing a set of Docker images used to run the U.S. Geological Survey Operaional National Hydraulic Model.
+* [pyONHM](https://github.com/rmcd-mscb/pyonhm_mirror) A python package that provides and Command Line Interface for managing a set of Docker images used to run the U.S. Geological Survey Operaional National Hydraulic Model.
 * [CSDMS BMI Applications](https://www.usgs.gov/centers/community-for-data-integration-cdi/science/coupling-hydrologic-models-data-services) A proof-of-concept study that applied the Community Surface Dynamics Modeling System (CSDMS) Basic Modeling Interface (BMI) to the U.S. Geological Survey's Precipitation Runoff Modelling System (PRMS).  
